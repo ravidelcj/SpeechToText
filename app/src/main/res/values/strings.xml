@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">SpeechToText</string>
 
-    <string name="hello_world">Hello world!</string>
+    <string name="speech_not_supported">Your device doesnot support speech recognition</string>
     <string name="action_settings">Settings</string>
 </resources>
